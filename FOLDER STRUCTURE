@@ -1,0 +1,12 @@
+HungerByte/
+│
+├── public/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── cart.html
+│   ├── orders.html
+│   ├── admin.html
+│
+├── server.js
+├── package.json
